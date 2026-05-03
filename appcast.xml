@@ -3,6 +3,15 @@
     <channel>
         <title>LGTM</title>
         <item>
+            <title>0.3</title>
+            <pubDate>Mon, 04 May 2026 00:36:50 +0200</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/Pluiesurlavitre/lgtm-releases/releases/download/v0.3/LGTM-0.3.dmg" length="2750675" type="application/octet-stream" sparkle:edSignature="vEo1YGbwpRATqrQi14kMvKjsrKsBmd3qAFQmftdaERkU6ppawSayVRXiFdvBNk0Gqh2b6LhKyDdIvLM/EZ+NDw=="/>
+        </item>
+        <item>
             <title>0.2</title>
             <pubDate>Sun, 03 May 2026 23:53:59 +0200</pubDate>
             <sparkle:version>2</sparkle:version>
