@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>LGTM</title>
+        <item>
+            <title>0.1</title>
+            <pubDate>Sun, 03 May 2026 23:05:10 +0200</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Pluiesurlavitre/lgtm-releases/releases/download/v0.1/LGTM-0.1.dmg" length="1504053" type="application/octet-stream" sparkle:edSignature="w2wh7aj2Jfk+BFzqCnZ3wJMzhgKKD+xKyYHU216HZeWg6B//9OyinFKLikdJcAdyPjZolTCuJprpyzo71jWECg=="/>
+        </item>
+    </channel>
+</rss>
